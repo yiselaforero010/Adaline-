@@ -1,0 +1,3 @@
+ErrorFinal: 0.067247
+Precision: 87.50
+NumeroEpocas: 6
